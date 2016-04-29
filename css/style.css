@@ -1,0 +1,23 @@
+body{
+	background-color: #ffe6f2;
+}
+
+h1{
+ color: #f08080;
+}
+
+#header{
+	background-color: brown;
+	padding: 3px;
+}
+
+.content{
+	background-color: #fff5ff;
+	height: 100%;
+	padding: 15px;
+}
+
+.checklist, .checklist.h3{
+	background-color: #f08080;
+	color: whitesmoke;
+}
