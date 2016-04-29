@@ -20,4 +20,14 @@ h1{
 .checklist, .checklist.h3{
 	background-color: #f08080;
 	color: whitesmoke;
+	padding: 15px;
+}
+
+.disabled {
+    opacity: 0.6;
+    cursor: not-allowed;
+}
+
+.btn.sidebar{
+	width: 100%;
 }
