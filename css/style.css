@@ -11,6 +11,12 @@ h1{
 	padding: 3px;
 }
 
+.frame{
+	background-color: #fff5ff;
+	height: 100%;
+	box-shadow: -3px 3px 10px 0px rgba(150,10,20,0.3);
+}
+
 .content{
 	background-color: #fff5ff;
 	height: 100%;
@@ -30,4 +36,16 @@ h1{
 
 .btn.sidebar{
 	width: 100%;
+}
+
+.bg_windmills{
+	background-image: url("../bgs/windmills.png");
+}
+
+.bg_pinkcheck{
+	background-image: url("../bgs/pinkcheck.png");
+}
+
+.bg_pinkspaghetti{
+	background-image: url("../bgs/pinkspaghetti.png");
 }
